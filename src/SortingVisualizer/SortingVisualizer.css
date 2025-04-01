@@ -1,0 +1,33 @@
+
+
+.array-container{
+    /*
+    display: flex;
+    justify-content: center;
+    
+    
+    top : 100px; 
+    */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;            /* Full viewport height */
+    width: 100vw; 
+    position: absolute; 
+
+    top: 0px;
+    left: 100 px;
+    
+}
+
+.array-bar{
+    /* 
+    width: 30px;
+    height: 30px;
+    */
+    width: 2px; 
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+
+    
+}
